@@ -1,4 +1,8 @@
 .lead {
   display: flex;
   flex-direction: column;
+  align-items: center;
+}
+.lead:last-child {
+  align-items: flex-start;
 }
