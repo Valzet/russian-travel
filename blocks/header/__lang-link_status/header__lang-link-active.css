@@ -1,0 +1,5 @@
+.header__lang-link-active {
+  text-decoration: none;
+  color: white;
+  text-decoration: underline;
+}

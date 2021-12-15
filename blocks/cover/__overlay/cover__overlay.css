@@ -1,0 +1,8 @@
+.cover__overlay {
+  width: 1184px;
+  height: 740px;
+  position: absolute;
+  background-image: url(../../../images/__overlay.png);
+  z-index: 2;
+
+}
