@@ -1,7 +1,9 @@
 .cover {
   position: relative;
-  width: 1184px;
+  min-width: 1184px;
+  max-width: 1280px;
   height: 740px;
   margin: 0 auto;
+  padding: 0 48px;
 
 }
