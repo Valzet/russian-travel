@@ -6,3 +6,11 @@
   padding-top: 8px;
   letter-spacing: 1.5px;
 }
+
+@media screen and (max-width: 984px) {
+  .lead__caption {
+    max-width: 928px;
+    margin-left: 24px;
+
+}
+}
