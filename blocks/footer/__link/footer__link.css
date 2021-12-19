@@ -14,3 +14,15 @@
 }
 
 
+@media screen and  (max-width: 767px){
+  .footer__link {
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+  }
+}
