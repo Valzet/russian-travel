@@ -13,6 +13,6 @@
     flex-direction: column;
     justify-content: space-between;
     padding-bottom: 48px;
-    min-height: calc(310px - 14px - 48px)
+    min-height: calc(310px - 14px - 48px);
   }
 }
