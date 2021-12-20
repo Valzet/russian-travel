@@ -13,5 +13,9 @@
 @media screen and (max-width: 767px){
   .intro__title {
     font-size: 32px;
+    font-family: Inter;
+    line-height: 35px;
+
+
   }
 }
