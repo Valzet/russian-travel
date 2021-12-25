@@ -1,12 +1,15 @@
 .place__image {
   margin: 0;
   width: 100%;
+  min-width: 320px
 }
 
 @media screen and (max-width: 767px) {
   .place__image {
-    max-width: 340px;
+    /* max-width: 340px; */
     padding: 0;
 
 }
 }
+
+
