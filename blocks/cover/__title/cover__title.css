@@ -14,13 +14,8 @@
 @media screen and (max-width: 767px) {
   .cover__title {
     min-width: 288px;
-    font-family: Inter;
     font-size: 32px;
-    font-style: normal;
-    font-weight: 900;
     line-height: 35px;
-    letter-spacing: 0em;
-    text-align: center;
     padding: 33px 16px 16px;
 
 

@@ -1,6 +1,7 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/opacity/opacity.css);
 
 
 /* header */
@@ -8,8 +9,9 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link_status/header__lang-link-active.css);
-@import url(../blocks/header/__lang-link_status/header__lang-link-noactive.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
+@import url(../blocks/header/__lang-item/header__lang-item.css);
+
 
 /* lead */
 @import url(../blocks/lead/lead.css);

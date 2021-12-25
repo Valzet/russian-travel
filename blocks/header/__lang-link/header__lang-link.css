@@ -1,14 +1,13 @@
 .header__lang-link {
   color: white;
-  max-width: 30px;
-  height: 28px;
   margin-left: 18px;
   font-size: 24px;
   line-height: 28px;
   font-weight: normal;
+  text-decoration: none;
 }
 
-.header__lang-link:first-child {
+.header__lang-link:last-of-type {
   margin-left: 0;
 }
 
@@ -20,3 +19,8 @@
   }
 }
 
+.header__lang-link:hover {
+  transition: opacity 0.2s ease;
+  opacity: 0.8;
+  text-decoration: none;
+}
