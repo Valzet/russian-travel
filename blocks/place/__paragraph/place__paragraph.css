@@ -23,12 +23,6 @@
   }
 }
 
-/* @media screen and (max-width: 767px) {
-  .place__paragraph:last-child {
-    padding-bottom: 0;
-
-  }
-} */
 
 .place__paragraph:last-child {
   padding-bottom: 0;
