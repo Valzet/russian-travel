@@ -13,3 +13,4 @@
 https://valzet.github.io/russian-travel/
 
 
+Status: планируется добавление scss и сборка gulp
